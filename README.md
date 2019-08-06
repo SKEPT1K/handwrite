@@ -39,3 +39,6 @@ handwrite.send(card, function(err, res, body) {
   // Do stuff...
 });
 ```
+
+## Examples
+- [testsingle.js](https://github.com/SKEPT1K/handwrite/blob/master/examples/testsingle.js)
